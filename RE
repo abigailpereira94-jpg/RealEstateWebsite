@@ -1,0 +1,4 @@
+cd /Users/abby/RealEstateWebsite
+git branch -M main
+git remote add origin https://github.com/abigailpereira94-jpg/RealEstateWebsite.git
+git push -u origin main
